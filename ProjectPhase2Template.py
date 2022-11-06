@@ -1,4 +1,4 @@
-#   Student Name
+#   Christopher Pinkney
 #   CIS261
 #   Project Phase 2
 def GetEmpName():
